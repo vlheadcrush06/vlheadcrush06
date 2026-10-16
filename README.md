@@ -45,7 +45,7 @@
 
 **Стек:** Python, Streamlit, NetworkX, Plotly, Pandas, OpenAI API
 
-**[→ Смотреть проект](https://github.com/vlheadcrush06/ai-reviever)**
+**[→ Смотреть проект](https://github.com/vlheadcrush06/ai_reviever-v2-)**
 
 ---
 
@@ -151,12 +151,9 @@
 
 *Работаю как фрилансер. 
 
-    /=======================================================\
-  /                                                           \
-/                                                               \
-\                                                               /       
-  \                                                           /
-    \=======================================================/
+    =======================================================
+                                                            
+    =======================================================
 
 # Vladimir — Python Developer        ----------        ENGLISH
 
@@ -205,7 +202,7 @@ modular architecture, testing.
 
 **Stack:** Python, Streamlit, NetworkX, Plotly, Pandas, OpenAI API
 
-**[→ View project](https://github.com/vlheadcr/ai-reviever)**
+**[→ View project](https://github.com/vlheadcrush06/ai_reviever-v2-)**
 
 ---
 
@@ -251,9 +248,10 @@ paid subscriptions to services (OpenAI, payment systems, etc.).
 - **Rush jobs** — taken when available, price +30%
 
 Cost depends on scope:
-- Simple command bot — from **$[X]**
-- Bot with DB and admin panel — from **$[Y]**
-- Dashboard or web app — from **$[Z]**
+- Simple command bot — from 3 000 to 8 000 ₽
+- Bot with DB and admin panel — from 10 000 to 25 000 ₽
+- Bot-based store with payment functionality: from 25 000 to 60 000 ₽
+- Dashboard or web app — from 8 000 to 20 000 ₽
 
 > I'll give the exact quote after we discuss the task — no "let me check later".
 
