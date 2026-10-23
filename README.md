@@ -43,7 +43,7 @@
 
 **Стек:** Python, Streamlit, NetworkX, Plotly, Pandas, OpenAI API
 
-**[→ Смотреть проект](https://github.com/vlheadcrush06/ai_reviever-v2-)**
+**[→ Смотреть проект](https://github.com/vlheadcrush06/ai_reviever-v2)**
 
 ### 🗣️ Эхо -  бот
 Эхо - бот для проверки работоспособности сервера, вы отправляете текст боту - он отвечает на него ровно тем же текстом, который вы и отправили.
